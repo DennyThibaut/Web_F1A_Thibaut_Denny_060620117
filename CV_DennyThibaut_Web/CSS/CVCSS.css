@@ -1,0 +1,87 @@
+body{
+	background-image:url(../Image/Background.jpg);
+	background-size:cover;
+	font-size:150%;
+	text-align:center;
+}
+table{
+	width:60%;
+	margin-left:20%;
+	border-color:black;
+	border-width:5px;
+	border-style:solid;
+}
+.yo{
+	float:left;
+}
+.yo2{
+	float:left;
+	margin-right:20%;
+	list-style-type:none;
+}
+.yoyo{
+	margin-left:35%;
+}
+.banniere li{
+	float:left;
+	list-style-type:none;
+	width:33%;
+	text-align:center;
+}
+.banniere li a{
+	display:block;
+	text-decoration:none;
+	color:black;
+	padding:20px;
+	font-size:20px;
+	border:solid;
+}
+.banniere {
+	overflow:hidden;
+	margin:0;
+	padding:0;
+	
+}
+.banniere li a:hover {
+	background-color:white;
+}
+}
+.Voila{
+	float:right;
+}
+.test{
+	float:left;
+	margin-left:25%
+}
+.test2{
+	margin-right:33%;
+	list-style-type:none;
+}
+.Descendre{
+	margin-top: 2%;
+}
+.souspartie{
+	list-style-type:none;
+	text-align:left;
+}
+#image{
+	float:left;
+	margin-top:3%;
+	margin-left:2%;
+	border:solid;
+}
+#image2{
+	border:solid;
+}
+#image3{
+	float:left;
+	border:solid;
+	margin-left:1.5%;
+	margin-top:-3%;
+}
+#placement{
+	margin-right:-7%;
+}
+.header{
+ font-family:Verdana;
+}
